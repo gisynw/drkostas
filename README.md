@@ -40,7 +40,7 @@
 
 * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Conducting research on **** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
